@@ -1,0 +1,19 @@
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\bin\Debug\projekt1.exe.config
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\bin\Debug\projekt1.exe
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\bin\Debug\projekt1.pdb
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\obj\Debug\projekt1.csprojResolveAssemblyReference.cache
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\obj\Debug\projekt1.Form1.resources
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\obj\Debug\projekt1.Properties.Resources.resources
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\obj\Debug\projekt1.csproj.GenerateResource.Cache
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\obj\Debug\projekt1.exe
+c:\users\joanna\documents\visual studio 2015\Projects\projekt1\projekt1\obj\Debug\projekt1.pdb
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\bin\Debug\projekt1.exe.config
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\bin\Debug\projekt1.exe
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\bin\Debug\projekt1.pdb
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\obj\Debug\projekt1.csprojAssemblyReference.cache
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\obj\Debug\projekt1.Form1.resources
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\obj\Debug\projekt1.Properties.Resources.resources
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\obj\Debug\projekt1.csproj.GenerateResource.cache
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\obj\Debug\projekt1.csproj.CoreCompileInputs.cache
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\obj\Debug\projekt1.exe
+C:\Users\joasl\OneDrive\Desktop\posk\projekt1\projekt1\obj\Debug\projekt1.pdb
